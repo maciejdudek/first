@@ -1,2 +1,2 @@
 This is other.
-Modified by Alice.
+Modified by Bob.
